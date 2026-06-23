@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://wendymolinares.github.io/andy-rochmol-epk/sitemap.xml
+Sitemap: https://epk.andyrochmol.com/sitemap.xml
