@@ -22,7 +22,6 @@
   section{padding:48px 0;border-bottom:1px solid rgba(201,164,76,0.12);}
   h2{font-size:2.3rem;margin-bottom:.2rem;}
 
-  /* OVATION image band */
   .ovation{padding:0;border-bottom:1px solid var(--line);background:var(--navy-deep);}
   .ovation figure{position:relative;margin:0;}
   .ovation img{display:block;width:100%;height:auto;}
@@ -37,7 +36,6 @@
   .feature{background:linear-gradient(180deg,var(--navy-soft),var(--navy));}
   .feature p{font-size:1.28rem;margin-top:.9rem;opacity:.93;}
   .feature b{color:#fff;font-weight:600;}
-  .photo-ph{margin-top:22px;border:1px dashed var(--line);border-radius:3px;height:200px;display:flex;align-items:center;justify-content:center;text-align:center;color:var(--muted);font-family:'Montserrat',sans-serif;font-size:.74rem;letter-spacing:.06em;background:rgba(201,164,76,0.03);padding:0 24px;}
 
   .watch{background:var(--navy-deep);}
   .stage{position:relative;width:100%;aspect-ratio:16/9;background:#000;border:1px solid var(--line);border-radius:4px;overflow:hidden;margin-top:18px;transition:max-width .25s ease;}
